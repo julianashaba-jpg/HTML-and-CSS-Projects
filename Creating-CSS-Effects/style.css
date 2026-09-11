@@ -1,0 +1,17 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+h1 {
+  font-weight: 700;
+}
+img {
+  width: 350px;
+  border-radius: 15px;
+  transition: transform 0.4s ease, filter 0.4s ease;
+}
+img:hover {
+  transform: scale(1.1) rotate(3deg);
+  filter: brightness(1.2);
+}
