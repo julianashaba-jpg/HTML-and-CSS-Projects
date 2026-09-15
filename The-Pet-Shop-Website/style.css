@@ -1,1 +1,8 @@
 /* Pet Shop Website styles */ 
+html {
+  scroll-behavior: smooth;
+}
+#about {
+  padding: 20px;
+  margin: 20px 0;
+}
